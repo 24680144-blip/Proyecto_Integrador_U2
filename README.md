@@ -235,7 +235,16 @@ ft.Image(
 
 * **Referencia Relativa**: El componente solo necesita el nombre del archivo y su extensión, ya que Flet completa la ruta automáticamente gracias a la gestión de recursos previamente configurada.
 
+## Evidencias de Funcionamiento
 
+### Vista General del Catálogo
+![Catálogo](assets/evidencia1.png)
+
+### Detalle de Componente (Herencia de Container)
+![Detalle](assets/evidencia2.png)
+
+### Layout Adaptable 
+![Responsive](assets/evidencia3.png)
 
 ---
 
